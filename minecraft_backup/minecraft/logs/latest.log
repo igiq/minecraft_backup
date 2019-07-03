@@ -1,0 +1,14 @@
+[12:23:14] [Server thread/INFO]: Igiq[/58.177.40.162:56063] logged in with entity id 302093 at (-196.94662261523382, 65.53292827534491, -187.72079612116403)
+[12:23:14] [Server thread/INFO]: Igiq joined the game
+[12:25:41] [Server thread/INFO]: Gynx[/89.64.20.169:50888] logged in with entity id 303876 at (-214.3466759982488, 51.01275060280143, -122.92041914545298)
+[12:25:41] [Server thread/INFO]: Gynx joined the game
+[12:58:17] [Server thread/WARN]: Gynx moved too quickly! 1.2448256263100461,0.0,-10.018094142386815
+[13:07:04] [Server thread/WARN]: Igiq moved too quickly! -2.069779499617198,0.0,-10.21351115408595
+[13:22:39] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:22:39] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:23:23] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:29:20] [Server thread/WARN]: Fetching addPacket for removed entity
+[13:31:30] [Server thread/INFO]: Gynx lost connection: Disconnected
+[13:31:30] [Server thread/INFO]: Gynx left the game
+[13:34:44] [Server thread/INFO]: Igiq lost connection: Disconnected
+[13:34:44] [Server thread/INFO]: Igiq left the game
